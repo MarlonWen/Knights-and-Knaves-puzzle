@@ -1,7 +1,6 @@
 # Knights-and-Knaves-puzzle
 
-This program is NOT INTENDED FOR ANY REAL PURPOSE OR USE and is more of a showcase of how propositional logic might
-be used to solve various problems such as the famous knights and knaves puzzle. You can run the puzzle.py file to
+Showcase of how propositional logic might be used to solve various problems such as the famous knights and knaves puzzle. Run puzzle.py file to
 find the solutions to the puzzles shown below:
 
 Puzzle 0
